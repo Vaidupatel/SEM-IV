@@ -1,3 +1,5 @@
+#Write a program that creates a function for nth Fibonacci number
+
 def fib(n):
     if (n==1):
         return 0

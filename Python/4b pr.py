@@ -1,3 +1,6 @@
+# Write a program to count frequency of elements and storing in dictionary using zip().
+
+
 a=input('Enter string')
 b=a.split(' ')
 c=[]

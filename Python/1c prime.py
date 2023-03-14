@@ -1,3 +1,5 @@
+# Write a function to find all prime numbers occur between 100 to 200
+
 def f1(x):
      Flag=False
      for i in range(2,x):

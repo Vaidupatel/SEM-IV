@@ -1,3 +1,5 @@
+# Write a program to demonstrate different datatypes in python.
+
 a=10
 b=12.4
 c="vaid"

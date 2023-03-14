@@ -1,3 +1,5 @@
+# Write a program to get the maximum and minimum value from a dictionary.
+
 a={'vaidik':508,'sahil':515,'prince':510,'darshan':491,'nirjal':332}
 b=max(a,key=a.get)
 c=min(a,key=a.get)

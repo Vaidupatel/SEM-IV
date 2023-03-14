@@ -1,3 +1,5 @@
+# Using concept of list comprehension, Write a program to print the Fibonacci sequence form with a given n input by console.
+
 def fibo(n):
     if(n==0):
         return 0
